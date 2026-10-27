@@ -2,8 +2,6 @@ site_name: Теория вероятностей — ICS Wiki
 site_url: https://ParShilo.github.io/ICS-WikiProbTheor/
 repo_url: https://github.com/ParShilo/ICS-WikiProbTheor
 
-docs_dir: .
-
 theme:
   name: material
   language: ru
@@ -66,9 +64,3 @@ markdown_extensions:
 extra_javascript:
   - javascripts/mathjax.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
-
-exclude_docs: |
-  mkdocs.yml
-  .github/
-  .gitignore
-  README.md
