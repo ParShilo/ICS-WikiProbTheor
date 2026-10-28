@@ -53,6 +53,8 @@ nav:
   - Вопросы к РК2: Вопросы РК2.md
 
 markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
   - admonition
   - pymdownx.details
   - pymdownx.superfences
