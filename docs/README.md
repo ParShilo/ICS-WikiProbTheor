@@ -4,5 +4,7 @@
 
 [Теоретические вопросы РК2](./Вопросы%20РК2.md)
 
-[Сайт](https://parshilo.github.io/ICS-WikiProbTheor/)
-[GitHub](https://github.com/ParShilo/ICS-WikiProbTheor)
+!!! Важно !!!
+*Ссылки, ведущие к ответам на вопросы РК, содержат избыточные ответы. Нет необходимости в ответ на вопрос писать всё, что дано по ссылке на странице. Необходимо писать лишь то, что спрашивается в вопросе.* 
+
+Связь: [Сайт](https://parshilo.github.io/ICS-WikiProbTheor/) [GitHub](https://github.com/ParShilo/ICS-WikiProbTheor)
